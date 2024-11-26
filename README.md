@@ -7,7 +7,6 @@
 <br />
 <br />
 
-- 🌱 I’m currently learning mobile development
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/abd-el-karim-tebourski-0b55931b3/">@KarimTebourski</a> 
 
 
@@ -22,7 +21,7 @@
 
 
 **Languages and Tools:**  
-
+<code><img height="40" src="[https://miro.medium.com/v2/resize:fit:828/format:webp/1*Yafu7ihc1LFuP4azerAa4w.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/louay47/louay47/main/assets/java.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/louay47/louay47/main/assets/android.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/louay47/louay47/main/assets/angular.png"></code>
